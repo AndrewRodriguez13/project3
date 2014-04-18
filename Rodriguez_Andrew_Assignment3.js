@@ -64,5 +64,18 @@ if (FightingADragon === true) {
         
 } 
  
+ 
+// Numbers
+if ( moneyinmypocket <= 150){
+  console.log ("I will have enough money to buy a" + weapon1 + ".");
+
+};
+
+// Math
+if (moneyinmypocket >= swordcost) {
+  moneyinmypocket -= swordcost;
+  console.log("I will purchase the" + weapon1 + "and still have a enough left over for the" + light + "Armor.");
+
+}
 
 
