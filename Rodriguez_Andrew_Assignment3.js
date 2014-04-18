@@ -25,3 +25,15 @@ var heavydutycost =50;
 var Prepare = " I will go to the store to purchase our weapons and armor to fight the dragons"; // string
 var Thejourney = " time to fight some dragon\'s"; // escape string
 
+
+// OutPut
+
+console.log("Morning everyone, My name is" ,Myname, "Arod for short.");
+console.log("Today I will fight" ,Numberofdragons, "dragon");
+console.log("first I will need to decide what kind of armor I will be using");
+console.log("If I use" ,Armor1, "Armor my choice of weapon is a" ,Weapon1, ".");
+console.log("The reason for this choice is I will be more swift");
+console.log("If I decide to go with the" ,Armor2, "Armor My choice of weapon would then be" ,Weapon2, ".");
+console.log("The" ,Armor2, "Armor will weigh a lot therefore making me not so swift.");
+console.log("The" ,Weapon2, "however makes good for long distances and if there was multiple dragons");
+console.log("Time to Pick my Armor.");
