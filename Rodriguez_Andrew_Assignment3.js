@@ -42,3 +42,23 @@ console.log("Time to Pick my Armor.");
 
 FightingADragon = confirm("Are We Going To Slay A Dragon Today?");
 
+// Conditionals
+
+if (FightingADragon === true) {
+    Myprompt = prompt("How many dragons are we going to fight today?", "type number of dragons");
+    Myprompt = parseInt("1");
+       if (Myprompt <= 1)
+       alert("Its time to slay a single dragon with my lightweight armor and sword!!!");
+       else
+       alert("multiple dragons!! No need to worry my heavy-duty armor and crossbow will do the trick");
+} else { 
+    Myprompt = prompt("If there are multiple dragons then what weapon will I choose?","Type a weapon choice");
+       if (Myprompt === "crossbow")
+           alert("Awesome I will win the battle with my crossbow!! You Win!!!" ,Myprompt);
+        else 
+        alert(Myname + " will lose the fight against the dragons.!! You lose GameOver!!!" ,Myprompt);
+        
+} 
+ 
+
+
