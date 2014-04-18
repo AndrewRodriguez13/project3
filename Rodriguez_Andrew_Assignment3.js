@@ -78,4 +78,17 @@ if (moneyinmypocket >= swordcost) {
 
 }
 
+// Jason data
 
+var jasondata = {
+
+	"person": [
+	    }
+	       "myname": "Andrew"
+	       "I like slaying dragons: "swords"
+	       },
+	       {
+	       	"favorite time of day": Night
+	        }
+]
+}:
