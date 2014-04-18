@@ -37,6 +37,10 @@ console.log("If I decide to go with the" ,Armor2, "Armor My choice of weapon wou
 console.log("The" ,Armor2, "Armor will weigh a lot therefore making me not so swift.");
 console.log("The" ,Weapon2, "however makes good for long distances and if there was multiple dragons");
 console.log("Time to Pick my Armor.");
+console.log("If i buy the sword it will cost me" + swordcost + "dollars.");
+console.log("if buying the crossbow it will cost" + CrossBowcost + "dollars");
+console.log("I would spend" + Lightweightcost + "dollars when buying" + light + "armor.");
+console.log("buying the" + heavy + "armor i would spend" + heavydutycost + "dollars.");
 
 // Boolean
 
